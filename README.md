@@ -1,5 +1,6 @@
 # Data-Analytics-with-R
 **🏃‍♂️ Runkeeper Data Analysis**
+
 This project involves a comprehensive data analysis of personal fitness activities using data exported from Runkeeper. The scripts demonstrate data cleaning, transformation, statistical summaries, time series analysis, and visualization.
 
 **📁 Dataset**
